@@ -1,9 +1,9 @@
 
 ## Installing Visual Studio Code
 
-One of our first tasks in this lab was to install Visual Studio Code, which is an integrated development environment for writing code. Like many other students, I already had visual studio code installed on my computer due to previous CSE courses. However, if I didn't, the installation process would look something like this.
+One of our first tasks in this lab was to install Visual Studio Code, which is an integrated development environment for writing code. Like many other students, I already had visual studio code installed on my computer due to previous CSE courses. However, if I didn't, the installation process would look something like .
 
-1) Navigate to [https://code.visualstudio.com/download](https://code.visualstudio.com/download). You should see something like this:
+1) Navigate to [https://code.visualstudio.com/download](https://code.visualstudio.com/download). You should see something similar to this:
 
 ![Image](./imgaes/lab-report-1/vsc-install.png)
 

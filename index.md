@@ -1,2 +1,4 @@
 
-[Week 1 Lab Report](week-1-lab-report.md)
+## Lab Reports
+
+[Week 1 Lab Report](./lab-report-1.md)
